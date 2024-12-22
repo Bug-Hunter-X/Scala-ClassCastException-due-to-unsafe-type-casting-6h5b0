@@ -1,0 +1,1 @@
+This repository demonstrates a common runtime error in Scala: ClassCastException due to unsafe type casting. The code showcases a scenario where pattern matching and type casting can lead to runtime exceptions if not handled properly. The solution provides a safer approach that avoids unsafe casting and handles different input types gracefully.
